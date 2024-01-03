@@ -1,0 +1,23 @@
+#nav-menu{
+    width: fit-content;
+    height: 80px;
+    background-color: aqua; 
+}
+#nav-menu ul li{
+    margin: 20px;
+    float: left;
+}
+#nav-menu ul li a{
+    
+    text-decoration: none;
+    font-size: 30px;
+    margin: 5px;
+    color: chocolate;
+    cursor:col-resize;
+    
+}
+#nav-menu ul li a:hover{
+    color: tomato;
+    font: 40px;
+    font-weight: bold;
+}
